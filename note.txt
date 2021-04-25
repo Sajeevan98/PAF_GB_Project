@@ -1,0 +1,3 @@
+Database Name=test
+
+path=http://localhost:8080/tharmmiiiiii/PaymentService/payment
